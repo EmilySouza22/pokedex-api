@@ -30,7 +30,7 @@ Praticar os principais conceitos do Módulo 01:
 
 ## Tecnologias utilizadas
 
-- Node.js
+- Node.js ^v18
 - TypeScript
 - TSX
 - PokeAPI
@@ -50,7 +50,7 @@ Praticar os principais conceitos do Módulo 01:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/pokedex-typescript-lite
+git clone git clone https://github.com/EmilySouza22/pokedex-api
 cd pokedex-typescript-lite
 
 # Instale as dependências
